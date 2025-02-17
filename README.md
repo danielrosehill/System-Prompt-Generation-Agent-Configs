@@ -1,8 +1,20 @@
 #  Assistant System Prompt Generation .... System Prompts!
 
+[![Part of AI-Assistants Library](https://img.shields.io/badge/Part%20of-AI--Assistants%20Library-blue)](https://github.com/danielrosehill/AI-Assistants)
+
 ![alt text](banner.jpg)
 
 17-Feb-25
+
+## Table of Contents - Assistant Configurations
+
+This repository contains several assistant configurations for different purposes:
+
+- [Multi-Purpose Configuration](multi-purpose.md) - A versatile configuration for system prompt generation
+- [Parameter Tuning Assistant](tuner.md) - Specialized for fine-tuning model parameters
+- [General Editor Configuration](editors/general-editor.md) - For general system prompt editing
+- [Voice Editor Configuration](editors/editor-for-voice.md) - Specialized for voice assistant prompts
+- [Markdown Generator Configuration](generators/generate-to-md.md) - For generating markdown documentation
 
 ## Temperature And Parameter Settings
 
